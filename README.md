@@ -1,5 +1,7 @@
 # Jekyll 3.7.0 in a Docker Container
 
+[![Build Status](https://travis-ci.org/linagora/jekyll-serve.svg?branch=mach10)](https://travis-ci.org/linagora/jekyll-serve)
+
 Run `jekyll serve` by default with livereload support in a Docker container.
 
 ## Getting Started
