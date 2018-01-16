@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  jekyll:
+    image: linagora/jekyll-serve
+    volumes:
+      - .:/site
+    ports:
+      - '4000:4000'
+      - '35729:35729'
