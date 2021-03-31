@@ -1,3 +1,5 @@
+![Archived](https://img.shields.io/badge/Current_Status-archived-blue?style=flat)
+
 # Jekyll 3.7.0 in a Docker Container
 
 [![Build Status](https://travis-ci.org/linagora/jekyll-serve.svg?branch=mach10)](https://travis-ci.org/linagora/jekyll-serve)
